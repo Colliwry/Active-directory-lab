@@ -1,4 +1,4 @@
-# Cybersecurity Analyst Portfolio Project: Active Directory Lab on Oracle VirtualBox
+# Active Directory Lab on Oracle VirtualBox
 
 This project involves setting up a virtualized Active Directory (AD) environment using Oracle VirtualBox. The lab simulates a real-world corporate network, providing hands-on experience with Active Directory administration, network security configurations, and penetration testing.
 
